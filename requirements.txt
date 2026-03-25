@@ -1,0 +1,5 @@
+feedparser>=6.0
+gtts>=2.3
+google-genai>=1.0
+python-dotenv>=1.0
+flask>=3.0
